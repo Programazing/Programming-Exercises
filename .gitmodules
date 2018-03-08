@@ -1,3 +1,6 @@
 [submodule "JavaScript-Puzzles"]
 	path = JavaScript-Puzzles
 	url = https://github.com/Programazing/JavaScript-Puzzles.git
+[submodule "C#/Palindrome-Finder"]
+	path = "C#/Palindrome-Finder"
+	url = https://github.com/Programazing/Palindrome-Finder.git
