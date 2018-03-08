@@ -4,3 +4,6 @@
 [submodule "C#/Palindrome-Finder"]
 	path = "C#/Palindrome-Finder"
 	url = https://github.com/Programazing/Palindrome-Finder.git
+[submodule "exercism"]
+	path = exercism
+	url = https://github.com/Programazing/exercism.git
