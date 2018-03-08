@@ -1,0 +1,3 @@
+[submodule "JavaScript-Puzzles"]
+	path = JavaScript-Puzzles
+	url = https://github.com/Programazing/JavaScript-Puzzles.git
